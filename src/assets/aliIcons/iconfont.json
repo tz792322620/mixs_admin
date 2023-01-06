@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7158874",
+      "name": "净利润",
+      "font_class": "jinglirun",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "8802993",
+      "name": "新增人数",
+      "font_class": "xinzengrenshu",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "11993936",
+      "name": "BTC",
+      "font_class": "BTC",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "11994009",
+      "name": "USDT",
+      "font_class": "USDT",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "24497434",
+      "name": "ETH",
+      "font_class": "ETH",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "25367384",
+      "name": "成交",
+      "font_class": "chengjiao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "32535799",
+      "name": "持仓收益",
+      "font_class": "chicangshouyi",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    }
+  ]
+}
