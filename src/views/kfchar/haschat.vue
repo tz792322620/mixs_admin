@@ -30,7 +30,6 @@
                   <div class="xxnr" v-if="item.textType == 1" >
                     <img style="width: 10rem" :src="item.body">
                   </div>
-
                 </div>
               </div>
             </div>
